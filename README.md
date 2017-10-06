@@ -1,4 +1,4 @@
-# ![logo](https://avatars3.githubusercontent.com/u/32564126?v=4&s=200) CAViTECgames_HardTrip
+# ![logo](https://avatars3.githubusercontent.com/u/32564126?v=4&s=200) HardTrip
 
 ## Introducción
 
