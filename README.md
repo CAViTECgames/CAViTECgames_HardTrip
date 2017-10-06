@@ -1,6 +1,6 @@
 # ![logo](https://avatars3.githubusercontent.com/u/32564126?v=4&s=200) HardTrip
 
-## Introducción
+# Introducción
 
 HardTrip™ es un nuevo y ambicioso proyecto de un videojuego de acción/aventuras, ambientado en el siglo XVI e inspirado en un fragmento de la obra "El viaje del Elefante" de José Saramago.
 
@@ -10,7 +10,7 @@ Como motor gráfico y sobre el que se desarrollará la lógica del juego, utiliz
 
 El lenguaje de programación empleado para el desarrollo de la lógica de HardTrip será C#, para el cual Unity™ nos ofrece total compatibilidad.
 
-# Requisitos
+## Requisitos
 
 Para contribuír al desarrollo software de este proyecto, se recomienda como herramientas de trabajo:
 
@@ -19,7 +19,7 @@ Para contribuír al desarrollo software de este proyecto, se recomienda como her
 
 Ambas herramientas suelen venir integradas, en el caso de instalar Visual Studio.
 
-# Links de utilidad
+## Links de utilidad
 
 * Organización: https://trello.com/
 * Documentación: https://www.google.com/drive/
