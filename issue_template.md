@@ -1,41 +1,23 @@
 <!--- (**********************************)
-      (** Fill in the following fields **)
+      (** Rellene los siguientes campos **)
       (**********************************) --->
 
-**Description:**
+**Descripción:**
 
-CHANGEME Description of the problem or issue here.
+Descripción sencilla del problema
 
-**Current behaviour:**
+**Comportamiento actual:**
 
-CHANGEME Tell us what happens.
-If this is a crash, post the crashlog (upload to https://gist.github.com/).
+CHANGEME ¿Qué es lo que pasa exactamente?¿Cual es el problema?
 
-**Expected behaviour:**
+**Comportamiento esperado:**
 
-CHANGEME Tell us what should happen instead.
+CHANGEME ¿Cómo debería funcionar en realidad?.
 
-**Steps to reproduce the problem:**
+**Pasos para reproducir el problema:**
 
-1. CHANGEME Step 1 include entries of affected creatures / items / quests with a link to the relevant wowhead page.  
-2. Step 2
-3. Step 3
+1. CHANGEME Paso 1 
+2. Paso 2
+3. Paso 3
 
-**Branch(es):**
-
-CHANGEME 3.3.5, master or both
-
-**TC rev. hash/commit:** 
-
-CHANGEME Copy the first line of the `worldserver`, `authserver` or `bnetserver` startup.
-For example: TrinityCore rev. 0000000000 2000-01-09 11:31:41 +0100 (my branch) (Win64, RelWithDebInfo, Static) (bnetserver)
-
-**TDB version:**  CHANGEME Version of the TrinityCore database
-
-**Operating system:** CHANGEME OS
-
-
-<!--- Notes
-- This template is for problem reports. For other types of report, edit it accordingly.
-- For fixes containing C++ changes, create a Pull Request.
---->
+**Sistema Operativo** CHANGEME OS
