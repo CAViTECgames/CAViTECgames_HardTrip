@@ -19,7 +19,5 @@ Para contribuír al desarrollo software de este proyecto, se recomienda como her
 
 Ambas herramientas suelen venir integradas, en el caso de instalar Visual Studio.
 
-## Links de utilidad
 
-* Organización: https://trello.com/
-* Documentación: https://www.google.com/drive/
+* Contacto: cavitecgames@gmail.com
